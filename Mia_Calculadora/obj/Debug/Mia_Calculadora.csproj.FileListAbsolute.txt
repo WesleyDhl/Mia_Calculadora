@@ -1,0 +1,11 @@
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\bin\Debug\Mia_Calculadora.exe.config
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\bin\Debug\Mia_Calculadora.exe
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\bin\Debug\Mia_Calculadora.pdb
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.csproj.AssemblyReference.cache
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.Form1.resources
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.Properties.Resources.resources
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.csproj.GenerateResource.cache
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.exe
+C:\Users\wf486\OneDrive\Área de Trabalho\Mia_Calculadora\Mia_Calculadora\obj\Debug\Mia_Calculadora.pdb
